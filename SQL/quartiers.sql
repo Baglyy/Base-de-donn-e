@@ -1,0 +1,18 @@
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (1.0, 'Centre Ville');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (2.0, 'Bellevue - Chantenay - Sainte Anne');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (3.0, 'Dervallières - Zola');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (4.0, 'Hauts Pavés - Saint Félix');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (5.0, 'Malakoff - Saint-Donatien');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (6.0, 'Ile de Nantes');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (7.0, 'Breil - Barberie');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (8.0, 'Nantes Nord');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (9.0, 'Nantes Erdre');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (10.0, 'Doulon - Bottière');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (11.0, 'Nantes Sud');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14301.0, 'Trentemoult');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14302.0, 'Hôtel de Ville');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14303.0, 'Château de Rezé');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14304.0, 'Pont Rousseau');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14305.0, 'La Houssais');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14306.0, 'Blordière');
+INSERT INTO `quartiers` (`identifiant`, `nom`) VALUES (14307.0, 'Ragon');
